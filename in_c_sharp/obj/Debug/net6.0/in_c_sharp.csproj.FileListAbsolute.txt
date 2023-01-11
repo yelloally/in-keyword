@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/obj/Debug/net6.0/in_c_sharp.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/obj/Debug/net6.0/in_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/obj/Debug/net6.0/in_c_sharp.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/obj/Debug/net6.0/in_c_sharp.AssemblyInfo.cs
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/obj/Debug/net6.0/in_c_sharp.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/bin/Debug/net6.0/in_c_sharp
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/bin/Debug/net6.0/in_c_sharp.deps.json
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/bin/Debug/net6.0/in_c_sharp.runtimeconfig.json
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/bin/Debug/net6.0/in_c_sharp.dll
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/bin/Debug/net6.0/in_c_sharp.pdb
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/obj/Debug/net6.0/in_c_sharp.dll
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/obj/Debug/net6.0/refint/in_c_sharp.dll
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/obj/Debug/net6.0/in_c_sharp.pdb
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/obj/Debug/net6.0/in_c_sharp.genruntimeconfig.cache
+/Users/yellobunny/Projects/studying2.0/in_c_sharp/obj/Debug/net6.0/ref/in_c_sharp.dll
